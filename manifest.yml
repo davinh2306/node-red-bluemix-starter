@@ -10,6 +10,6 @@ declared-services:
   node-red-cloudantNoSQLDB:
     label: cloudantNoSQLDB
     plan:  Shared
-  iot-foundation
+  iot-foundation:
     label:iotf-service
     plan: iotf-service-free
